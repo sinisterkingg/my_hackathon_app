@@ -1,12 +1,11 @@
 # my_hackathon_app
 
 A new Flutter project.
-![Screenshot 2023-10-22 074336](https://github.com/sinisterkingg/my_hackathon_app/assets/132443204/0fa39c8c-fb8c-4e1a-9c88-90f97259d037)
-![Screenshot 2023-10-22 074514](https://github.com/sinisterkingg/my_hackathon_app/assets/132443204/5ed01a70-7202-4ae7-9f87-e7586b369766)
-![Screenshot 2023-10-22 074533](https://github.com/sinisterkingg/my_hackathon_app/assets/132443204/f46ca81a-a5aa-4ab9-b9be-6e328709518d)
-![Screenshot 2023-10-22 074546](https://github.com/sinisterkingg/my_hackathon_app/assets/132443204/08f81aac-2562-4930-8de5-3b3c449cd31f)
-![Screenshot 2023-10-22 074605](https://github.com/sinisterkingg/my_hackathon_app/assets/132443204/a5ce7476-0da2-4636-9574-c08a6ad3a748)
-
+![Screenshot 2023-10-22 074336](https://github.com/sinisterkingg/my_hackathon_app/assets/132443204/e706ca7b-e7bf-4436-a2b7-7765f93836f6)
+![Screenshot 2023-10-22 074514](https://github.com/sinisterkingg/my_hackathon_app/assets/132443204/2cb66d28-ad35-4b48-a615-d2a1e05437de)
+![Screenshot 2023-10-22 074533](https://github.com/sinisterkingg/my_hackathon_app/assets/132443204/7aec4b97-1030-40f2-9beb-1d6330c1e03d)
+![Screenshot 2023-10-22 074546](https://github.com/sinisterkingg/my_hackathon_app/assets/132443204/7a7f03cd-3c02-480c-9da9-e432481c8df3)
+![Screenshot 2023-10-22 074605](https://github.com/sinisterkingg/my_hackathon_app/assets/132443204/aaab16d0-6677-4172-9b1a-9ae7a7e47932)
 
 
 ## Getting Started
